@@ -79,8 +79,8 @@ DATABASES = {
         'NAME': 'sirkwaretestdb',
         'USER': 'jeklesheckle',
         'PASSWORD': '!d4t4B453D',
-        'HOST': '192.168.0.19',     #sirkware-db
-        'PORT': '',
+        'HOST': '192.168.0.19',     # sirkware-db
+        'PORT': '3306',             # default for mysql
     }
 }
 
